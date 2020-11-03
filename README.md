@@ -2,6 +2,7 @@
 
 Pelos presentes termos, em que declaram mutuamente de acordo, GBLIX, pessoa jurídica de direito privado, inscrita sob o CNPJ nº 17.962.007/0001-97, com sede no município de Itu(SP) através de seu representante legal Gustavo Brigo da Silva, doravante denominada exclusivamente GBLIX, e o usuário, que ratifica o presente instrumento pela utilização de qualquer dos serviços e produtos oferecidos pela GBLIX, cujo acesso está condicionado à aceitação dos presentes termos, doravante denominado CLIENTE.
 
+
 O serviço oferecido pela GBLIX envolve complexidade técnica, exigindo-se, para seu pleno desfrute, que o CLIENTE seja dotado de conhecimento específico para utilização de funções de manejo de dados, e navegação online. O suporte técnico oferecido pela GBLIX não engloba os cuidados pessoais do CLIENTE para com seu equipamento e software relacionados (mais detalhes a seguir), e o mau uso desse equipamento, não sendo responsabilidade da GBLIX, não isenta o CLIENTE da observância das normas de uso presentemente estabelecidas.
 
 Em caso de dúvidas quanto à melhor forma para fazer uso do serviço, entre em contato. Convém a observância de que estes termos deverão ser interpretados com fulcro na boa fé, procurando garantir o serviço a ambas as partes, bem como a terceiros contratantes da ora fornecedora.
@@ -20,11 +21,11 @@ O Cliente é responsável pelo cumprimento desse TOS, o cliente será inteiramen
 
 Qualquer violação aos termos das empresas que prestam serviço a GBLIX, serão considerados também uma violação aos nossos próprios termos (conteúdo pornográfico, hospedar qualquer tipo de material que viole alguma lei de copyright ou propriedade intelectual no Brasil ou EUA), seguem abaixo o TOS e AUP das empresas onde a GBLIX aloca seu equipamento:
 
-* http://www.netriplex.com/company/aup.aspx
-* http://www.incero.com/acceptable-use-policy
-* http://www.softlayer.com/about/legal/acceptable-use-policy
+http://www.netriplex.com/company/aup.aspx
+https://www.hivelocity.net/legal/
+http://www.softlayer.com/about/legal/acceptable-use-policy
 
-O MANEJO DE SOFTWARE DE UTILIZAÇÃO PARTICULAR É DE RESPONSABILIDADE EXCLUSIVA DO CLIENTE, ESTANDO, PORTANTO, ISENTA A GBLIX DE QUALQUER RESPONSABILIDADE QUANTO À SEGURANÇA DOS DADOS NO QUE EXCEDE O BANCO DE DADOS DA EMPRESA. Dificuldades relacionadas a software, hardware, e gerenciamento de dados e informações de segurança por parte do cliente não lhe serão imputados.
+O MANEJO DE SOFTWARE DE UTILIZAÇÃO PARTICULAR É DE RESPONSABILIDADE EXCLUSIVA DO CLIENTE, ESTANDO, PORTANTO, ISENTA A GBLIX DE QUALQUER RESPONSABILIDADE QUANTO À SEGURANÇA DOS DADOS NO QUE EXCEDE O BANCO DE DADOS DA EMPRESA. Dificuldades relacionadas a software, hardware, e gerenciamento de dados e informações de segurança por parte do cliente não lhe serão imputados. 
 
 ## II. INTERPRETAÇÃO
 
@@ -32,7 +33,7 @@ Os presentes Termos de Serviço não pretendem a exaustão do contrato estabelec
 
 ## III. RESTRIÇÕES GERAIS
 
-O CLIENTE deverá atentar à legislação local quando da utilização dos serviços e produtos ora contratados. A violação das normas pertinentes, bem como a inobservância a eventuais direitos intelectuais implicará ilicitude contratual em face da GBLIX, e sua eventual responsabilização subsidiária ensejará direito de regresso desta em relação ao CLIENTE. Nesta hipótese, desde já acorda o CLIENTE da possibilidade de, uma vez que incorra em ilicitude, figurar processualmente como eventual denunciado à lide.
+O CLIENTE deverá atentar à legislação local quando da utilização dos serviços e produtos ora contratados. A violação das normas pertinentes, bem como a inobservância a eventuais direitos intelectuais implicará ilicitude contratual em face da GBLIX, e sua eventual responsabilização subsidiária ensejará direito de regresso desta em relação ao CLIENTE. Nesta hipótese, desde já acorda o CLIENTE da possibilidade de, uma vez que incorra em ilicitude, figurar processualmente como eventual denunciado à lide. 
 
 ## IV. IRC
 
@@ -86,9 +87,7 @@ Na hipótese de não descontinuação do serviço após a terceira infração, h
 
 # X. REPORTAR ABUSO
 
-Qualquer parte que desejar reportar qualquer tipo de abuso, violação, ou excesso que envolva a GBLIX ou clientes da mesma, deve enviar a notificação para o e-mail:
-
-Imagem não disponúvel
+Qualquer parte que desejar reportar qualquer tipo de abuso, violação, ou excesso que envolva a GBLIX ou clientes da mesma, deve enviar a notificação para o e-mail: abuse@gblix.net
 
 # XI. TEMPO DE ENTREGA DO SERVIÇO
 
